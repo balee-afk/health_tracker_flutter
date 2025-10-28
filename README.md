@@ -1,16 +1,26 @@
 # heart_tracker_mobile
 
-A new Flutter project.
+## A Flutter-based health tracking application.
 
-## Getting Started
+## 🛠️ Cara Instalasi
 
-This project is a starting point for a Flutter application.
+## Clone repository
 
-A few resources to get you started if this is your first Flutter project:
+git clone https://github.com/balee-afk/health_tracker_flutter.git
+cd heart_tracker_mobile
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Install dependencies
+
+flutter pub get
+
+
+## Jalankan aplikasi
+
+flutter run
+
+
+Jika terjadi error versi Flutter, samakan versi Flutter dengan yang digunakan pada project ini.
+Kamu bisa melihat versi yang digunakan dengan perintah:
+
+flutter --version

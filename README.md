@@ -1,21 +1,21 @@
-##heart_tracker_mobile
+# heart_tracker_mobile
 
-#A Flutter-based health tracking application.
+## A Flutter-based health tracking application.
 
-#🛠️ Cara Instalasi
+## 🛠️ Cara Instalasi
 
-#Clone repository
+## Clone repository
 
 git clone https://github.com/balee-afk/health_tracker_flutter.git
 cd heart_tracker_mobile
 
 
-#Install dependencies
+## Install dependencies
 
 flutter pub get
 
 
-#Jalankan aplikasi
+## Jalankan aplikasi
 
 flutter run
 
